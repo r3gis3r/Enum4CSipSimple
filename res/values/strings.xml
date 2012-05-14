@@ -3,5 +3,12 @@
 
     <string name="app_name">Enum4CSipSimple</string>
     <string name="enum_rewrite">ENUM rewrite</string>
+    <string name="enum_suffix_summary">ENUM database suffix</string>
+    <string name="enum_suffix">ENUM suffix</string>
+    <string name="nbr_prefix_summary">Expected number prefix to ignore</string>
+    <string name="nbr_prefix">Ignore prefix</string>
+    <string name="services_to_match_summary">E2U services types to consider as matching</string>
+    <string name="services_to_match">E2U services</string>
+    <string name="launcher_name">Enum for </string>
 
 </resources>
